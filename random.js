@@ -42,14 +42,15 @@ function createRandomScene() {
     
     // Else, if the number is less than 0.67, call the function to create your second scene.
     
-    var myNumer = Math.random()
-    if
-    
+    var myNubmer = Math.random()
+    if(myNumber < 0.67){ 
+        createSecondScene()
+    } 
     // Else, call the function to create your third scene.
     
     
     
-}
+
 
 
 
